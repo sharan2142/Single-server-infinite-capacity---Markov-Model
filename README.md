@@ -20,6 +20,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
+<img width="893" height="518" alt="{9B6B1A2B-187F-4A97-82A1-3E572A450FAC}" src="https://github.com/user-attachments/assets/6d9b1956-8a97-4252-b5cf-8fb0eaabb4e3" />
 
  
 ## Program
@@ -27,5 +28,9 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Output :
 
+<img width="809" height="298" alt="Screenshot 2026-05-27 065407" src="https://github.com/user-attachments/assets/69a2d545-7bc4-4a15-a922-f935aa43fbeb" />
+
 ## Result :
 
+Thus, the program has been executed successfully and the required parameters have been calculated as per
+thegivenconditions.
